@@ -1,4 +1,4 @@
-IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟,下载速度
+IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),锟斤拷,城市(中文),国旗,网络延迟,下载速度
 46.232.105.78,7443,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,57 ms,26093 kB/s
 23.141.12.23,8443,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,103 ms,17142 kB/s
 202.85.53.92,7000,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,105 ms,15037 kB/s
@@ -18,13 +18,3 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络
 34.150.80.6,43244,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,210 ms,5596 kB/s
 202.81.230.146,443,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,92 ms,5585 kB/s
 103.51.145.18,8443,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,57 ms,5568 kB/s
-149.104.25.252,20013,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,121 ms,5528 kB/s
-45.153.130.97,24057,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,55 ms,4350 kB/s
-101.32.40.102,4431,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,84 ms,3788 kB/s
-119.8.101.187,19423,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,197 ms,3697 kB/s
-150.109.105.239,5566,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,80 ms,3551 kB/s
-69.165.68.223,7443,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,69 ms,3265 kB/s
-156.245.246.200,7443,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,71 ms,3162 kB/s
-45.121.215.113,26359,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,234 ms,3085 kB/s
-206.237.2.5,35690,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,249 ms,2983 kB/s
-43.161.225.160,7417,TRUE,HK,HK,Asia Pacific,Hong Kong,亚洲,香港,香港,????,78 ms,2945 kB/s

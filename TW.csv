@@ -1,5 +1,4 @@
-IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络延迟,下载速度
-183.236.51.220,7004,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,62 ms,0 kB/s
+IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),锟斤拷,城市(中文),国旗,网络延迟,下载速度
 183.236.51.220,7005,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,60 ms,12879 kB/s
 183.236.51.220,7001,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,62 ms,11774 kB/s
 183.236.51.201,7005,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,62 ms,10918 kB/s
@@ -11,11 +10,3 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络
 183.236.51.201,7002,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,59 ms,6809 kB/s
 103.123.132.236,443,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,248 ms,4551 kB/s
 123.253.111.240,443,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,262 ms,1442 kB/s
-125.227.162.252,12486,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,95 ms,227 kB/s
-103.193.172.5,443,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,385 ms,202 kB/s
-114.32.9.249,51443,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,101 ms,84 kB/s
-114.32.9.249,16443,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,84 ms,69 kB/s
-114.34.202.224,10004,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,87 ms,8 kB/s
-125.227.162.252,12485,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,97 ms,0 kB/s
-61.220.128.226,43,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,151 ms,0 kB/s
-39.159.27.210,8101,TRUE,TW,TW,Asia Pacific,Taipei,亚洲,台湾,台北,????,53 ms,0 kB/s

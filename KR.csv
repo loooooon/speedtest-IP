@@ -28,14 +28,3 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络
 221.161.207.216,50000,TRUE,KR,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,????,83 ms,6916 kB/s
 211.192.254.96,50000,TRUE,KR,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,????,81 ms,6793 kB/s
 125.135.43.66,50000,TRUE,KR,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,????,87 ms,6757 kB/s
-106.242.64.238,50000,TRUE,KR,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,????,89 ms,6619 kB/s
-211.105.156.214,50000,TRUE,KR,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,????,80 ms,6522 kB/s
-112.185.223.152,50001,TRUE,KR,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,????,114 ms,6494 kB/s
-112.146.187.55,29765,TRUE,KR,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,????,82 ms,6450 kB/s
-61.72.176.145,18016,TRUE,KR,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,????,78 ms,6412 kB/s
-121.175.54.93,30037,TRUE,KR,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,????,78 ms,6401 kB/s
-124.111.11.3,20067,TRUE,KR,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,????,100 ms,6388 kB/s
-175.113.29.202,30027,TRUE,KR,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,????,81 ms,6280 kB/s
-175.120.200.238,50000,TRUE,KR,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,????,74 ms,6264 kB/s
-175.211.17.201,50000,TRUE,KR,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,????,75 ms,6194 kB/s
-220.124.39.201,11300,TRUE,KR,KR,Asia Pacific,Seoul,亚洲,韩国,首尔,????,125 ms,6193 kB/s

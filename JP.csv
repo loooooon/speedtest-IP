@@ -6,8 +6,6 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络
 45.8.115.121,443,TRUE,JP,JP,Asia Pacific,Osaka,亚洲,日本,大阪,????,245 ms,4308 kB/s
 64.110.106.255,627,TRUE,JP,JP,Asia Pacific,Osaka,亚洲,日本,大阪,????,188 ms,3310 kB/s
 152.69.202.173,59407,TRUE,JP,JP,Asia Pacific,Osaka,亚洲,日本,东京,????,194 ms,241 kB/s
-217.142.231.34,443,TRUE,JP,JP,Asia Pacific,Osaka,亚洲,日本,大阪,????,213 ms,0 kB/s
-217.142.227.105,20071,TRUE,JP,JP,Asia Pacific,Osaka,亚洲,日本,大阪,????,182 ms,0 kB/s
 166.88.100.12,30025,TRUE,JP,JP,Asia Pacific,Osaka,亚洲,日本,大阪,????,76 ms,10143 kB/s
 45.8.115.121,443,TRUE,JP,JP,Asia Pacific,Osaka,亚洲,日本,大阪,????,87 ms,9027 kB/s
 192.243.119.185,50100,TRUE,JP,JP,Asia Pacific,Tokyo,亚洲,日本,东京,????,173 ms,8873 kB/s
@@ -27,5 +25,3 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络
 192.243.119.185,50100,TRUE,JP,JP,Asia Pacific,Tokyo,亚洲,日本,大阪,????,172 ms,9461 kB/s
 152.69.202.173,59407,TRUE,JP,JP,Asia Pacific,Osaka,亚洲,日本,大阪,????,194 ms,1643 kB/s
 212.50.246.91,443,TRUE,JP,JP,Asia Pacific,Osaka,亚洲,日本,大阪,????,69 ms,152 kB/s
-172.233.82.44,444,TRUE,JP,JP,Asia Pacific,Osaka,亚洲,日本,大阪,????,242 ms,82 kB/s
-217.142.231.34,443,TRUE,JP,JP,Asia Pacific,Osaka,亚洲,日本,大阪,????,198 ms,0 kB/s

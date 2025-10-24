@@ -25,6 +25,13 @@ IP地址,端口,TLS,数据中心,源IP位置,地区,城市,地区(中文),国家,城市(中文),国旗,网络
 167.172.88.191,444,TRUE,SG,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,263 ms,3898 kB/s
 188.166.182.46,8888,TRUE,SG,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,254 ms,3664 kB/s
 167.172.65.150,443,TRUE,SG,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,287 ms,3595 kB/s
-101.132.172.172,10443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,43 ms,22500 kB/s
-45.136.253.18,33273,TRUE,SIN,TH,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,167 ms,2929 kB/s
-101.32.168.155,28443,TRUE,SIN,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,103 ms,1460 kB/s
+101.132.172.172,10443,TRUE,SG,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,43 ms,22500 kB/s
+45.136.253.18,33273,TRUE,SG,TH,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,167 ms,2929 kB/s
+101.32.168.155,28443,TRUE,SG,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,103 ms,1460 kB/s
+47.236.71.60,28443,TRUE,SG,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,226 ms,5234 kB/s
+146.190.192.201,443,TRUE,SG,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,264 ms,5010 kB/s
+84.247.150.2,7443,TRUE,SG,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,195 ms,4330 kB/s
+146.56.185.174,443,TRUE,SG,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,265 ms,4160 kB/s
+47.236.7.141,443,TRUE,SG,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,228 ms,3887 kB/s
+38.244.147.68,2053,TRUE,SG,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,291 ms,3836 kB/s
+128.199.216.53,443,TRUE,SG,SG,Asia Pacific,Singapore,亚洲,新加坡,新加坡,????,273 ms,3572 kB/s
